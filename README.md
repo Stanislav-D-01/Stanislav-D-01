@@ -1,4 +1,4 @@
-<h1 align="center">Привет всем, меня зовут<a href="[https://daniilshat.ru/" target="_blank](https://github.com/Stanislav-D-01)">Стас ✌️</a>
+<h1 align="center">Привет всем, меня зовут<a href="[https://daniilshat.ru/" target="_blank](https://github.com/Stanislav-D-01)"> Стас ✌️</a>
 
 <!--
 **Stanislav-D-01/Stanislav-D-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
