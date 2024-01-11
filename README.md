@@ -1,5 +1,6 @@
 <h1 align="center">Привет всем, меня зовут<a href="[https://daniilshat.ru/" target="_blank](https://github.com/Stanislav-D-01)"> Стас ✌️</a>
 <h2>Моя стена <s>славы</s> стека:</h2>
+<img src='https://disk.yandex.ru/i/LuJugcalLl4OAA'>
 
 
 
