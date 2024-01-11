@@ -1,9 +1,9 @@
 <h1 align="center">Привет всем, меня зовут<a href="[https://daniilshat.ru/" target="_blank](https://github.com/Stanislav-D-01)"> Стас ✌️</a>
-<h2>Моя стена <s>славы</s> стека:</h2>
-<div style='display: flex; flex-direction: row">
-<img style="height: 100px; width: 100px" src='https://gitlab.com/uploads/-/system/group/avatar/10720253/typescript.png'>
-<img style="height: 80px; width: 80px"  src="https://gitlab.com/uploads/-/system/group/avatar/10720253/typescript.png">
-</div>
+<!--<h2>Моя стена <s>славы</s> стека:</h2>
+<div style='display: flex; flex-direction: row'>
+<img style="height: 100px; width: 100px" src='https://downloader.disk.yandex.ru/preview/0f4d4b2dc4f8f6cc10be1424efc9029de867a09757fa4a6bcd4d6400a9d3ab58/65a05b4b/M-IxwDBpS0h4ZdrdlNWNNx00sPDVe0yYJErrJ194COoVKfbBU_pXSf0gYP5m-p6Miilsun5w9S1kF9jHUaA-0Q%3D%3D?uid=0&filename=1073596.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048'>
+<img style="height: 80px; width: 80px"  src='https://gitlab.com/uploads/-/system/group/avatar/10720253/typescript.png'>
+</div> -->
 
 
 <!--
