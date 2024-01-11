@@ -1,6 +1,6 @@
 <h1 align="center">Привет всем, меня зовут<a href="[https://daniilshat.ru/" target="_blank](https://github.com/Stanislav-D-01)"> Стас ✌️</a>
 <h2>Моя стена <s>славы</s> стека:</h2>
-<img src='[https://disk.yandex.ru/i/LuJugcalLl4OAA](https://downloader.disk.yandex.ru/preview/a7b7cb513b8e483b0ed40882dad6e0b1c98864c1691a8d05b49e0039a32c6e60/65a05842/M-IxwDBpS0h4ZdrdlNWNNx00sPDVe0yYJErrJ194COoVKfbBU_pXSf0gYP5m-p6Miilsun5w9S1kF9jHUaA-0Q%3D%3D?uid=0&filename=1073596.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)'>
+<img src='https://downloader.disk.yandex.ru/preview/a7b7cb513b8e483b0ed40882dad6e0b1c98864c1691a8d05b49e0039a32c6e60/65a05842/M-IxwDBpS0h4ZdrdlNWNNx00sPDVe0yYJErrJ194COoVKfbBU_pXSf0gYP5m-p6Miilsun5w9S1kF9jHUaA-0Q%3D%3D?uid=0&filename=1073596.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048'>
 
 
 
