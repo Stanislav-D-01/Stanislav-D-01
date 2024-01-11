@@ -1,5 +1,15 @@
-<h1 align="center">Привет всем, меня зовут<a href="[https://daniilshat.ru/" target="_blank](https://github.com/Stanislav-D-01)"> Стас ✌️</a>
-<<h2>Моя стена <s>славы</s> стека:</h2>
+<h1 align="center">Привет всем, меня зовут<a href="[https://daniilshat.ru/" target="_blank](https://github.com/Stanislav-D-01)"> Стас ✌️</a></h1>
+ Немного обо мне:
+
+- 🔭 Я вижу себя крутым разработчиком
+- 🌱 Моя цель: Вперед и только вперед
+- 👯 Хочу работать в крутом коллективе
+- 🤔 Люблю когда сложно и мозг кипит
+- 😄 Главное позитив в жизни :)
+
+Моя полка знаний:
+ 
+
 <div style='display: flex; flex-direction: row; gap: 25px'>
 <img style="height: 90px; width: 90px; " src='https://downloader.disk.yandex.ru/preview/f24b0e829f8a7fdc7468b2175ca8df551c390688cce26f1d93a9b6193ffbed06/65a06e03/Ik-ieIGD3JnCosG5jhpo_GLh1I0Swms7KWrBgbKe7wq2H5GM86MLW1SdpMWtFHww6YWzh1Lkn81uXVGg8lLYzg%3D%3D?uid=0&filename=html.tif&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048'>
 <img style="height: 90px; width: 90px"  src='https://downloader.disk.yandex.ru/preview/45166387ed2cfb05bc77b24aa950e01979285a51986f2c5d1e1c661a00f8e845/65a06e49/hTK_sgf6w1t8PWk0gWxhUjML7p_7MM5j2CPpqvtuHWy9wq4BKDFo4WdmEyqp0Wwc7MCgbHNMGy4xQTPS7ESKdg%3D%3D?uid=0&filename=css.tif&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048'>
@@ -14,17 +24,7 @@
 </div> 
 
 
-<!--
-**Stanislav-D-01/Stanislav-D-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
