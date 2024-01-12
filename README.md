@@ -1,4 +1,4 @@
-<h1 align="center">Привет всем, меня зовут<a href="[https://daniilshat.ru/" target="_blank](https://github.com/Stanislav-D-01)"> Стас ✌️</a></h1>
+<h1 align="center">Привет всем, меня зовут<a href="https://github.com/Stanislav-D-01" target="_blank](https://github.com/Stanislav-D-01)"> Стас ✌️</a></h1>
  Немного обо мне:
 
 - 🔭 Я вижу себя крутым разработчиком
