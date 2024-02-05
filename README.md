@@ -22,6 +22,7 @@
 <img style="height: 70px; width: 70px"  src="./image/nest.jpg">
 <img style="height: 70px; width: 70px"  src="./image/postgre.jpg">
 <img style="height: 70px; width: 70px"  src="./image/mongo.jpg">
+<img style="height: 70px; width: 70px"  src="./image/docker.jpg">
 </div> 
 
 
