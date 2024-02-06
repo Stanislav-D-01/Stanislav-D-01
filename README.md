@@ -7,8 +7,8 @@
 - 🤔 Люблю когда сложно и мозг кипит
 - 😄 Главное в жизни позитив :)
 
-🧑‍💻Мой стек технологий:
- 
+
+ ### 🚛: Мой стек технологий:
 
 <div style='display: flex; flex-direction: row; gap: 25px'>
 
@@ -24,6 +24,8 @@
 <img style="height: 70px; width: 70px"  src="./image/mongo.jpg">
 <img style="height: 70px; width: 70px"  src="./image/docker.jpg">
 </div> 
+
+### :writing_hand: Мои проекты:
 
 ### :fire: Моя статистика :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislav-D-01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
