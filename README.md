@@ -25,6 +25,9 @@
 <img style="height: 70px; width: 70px"  src="./image/docker.jpg">
 </div> 
 
+### :fire: Моя статистика :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislav-D-01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
