@@ -32,7 +32,7 @@
 - [CRA Приложение "Звездные бургеры](https://stanislav-d-01.github.io/react-burger/)
 - [Бэк к сайту "Место"](https://github.com/Stanislav-D-01/mesto-project-plus)
 - [Бэк к сайту вишлистов подарков "Купи подари дай"](https://github.com/Stanislav-D-01/kupipodariday-backend)
-- [Одностроничный сайт с использованием анимации css "Научиться учиться"](https://stanislav-d-01.github.io/how-to-learn-plus/)
+- [Одностраничный сайт с использованием анимации css "Научиться учиться"](https://stanislav-d-01.github.io/how-to-learn-plus/)
 ### :fire: Моя статистика :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislav-D-01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
