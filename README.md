@@ -29,7 +29,7 @@
 ### :writing_hand: Мои проекты:
 - [Путешествия по России](https://stanislav-d-01.github.io/russian-travel/)
 - [Проект добавления фото мест "Место"](https://stanislav-d-01.github.io/mesto-project/)
-- [CRA Приложение "Звездные бургеры](https://stanislav-d-01.github.io/react-burger/)
+- [SPA Приложение "Звездные бургеры](https://stanislav-d-01.github.io/react-burger/)
 - [Бэк к сайту "Место"](https://github.com/Stanislav-D-01/mesto-project-plus)
 - [Бэк к сайту вишлистов подарков "Купи подари дай"](https://github.com/Stanislav-D-01/kupipodariday-backend)
 - [Одностраничный сайт с использованием анимации css "Научиться учиться"](https://stanislav-d-01.github.io/how-to-learn-plus/)
